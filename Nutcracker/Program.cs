@@ -18,8 +18,6 @@ namespace Nutcracker
             INutcrackerRepository nutcrackerRepository = new DirectoryRepository("Data");
             try
             {
-                int t = 0;
-                var tmp = 5 / t;
                 if (nutcrackerRepository.TryGetValue("NUTCRACKER", out var data))
                 {
                     DataContext context = new DataContext(data);
