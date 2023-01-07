@@ -1,0 +1,13 @@
+﻿гл - verb
+деепр - grnd
+инф_гл infn
+кр_прил - adjs
+межд - intj
+мест - npro
+предл - prep
+прил - adjf
+прич - prtf
+союз - conj
+сущ - noun
+част - prcl
+
